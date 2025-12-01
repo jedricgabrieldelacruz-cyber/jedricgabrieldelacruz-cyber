@@ -8,14 +8,13 @@
 
 <h2>My Certifications</h2>
 <ul>
-  <li>
-    SQL and Relational Databases 101  
-    <a href="https://courses.cognitiveclass.ai/certificates/1e585ba944e148a7b992f7434bf062f5">View Certificate</a>
+  <li>  
+    <a href="https://courses.cognitiveclass.ai/certificates/1e585ba944e148a7b992f7434bf062f5">SQL and Relational Databases 101</a>
   </li>
 </ul>
 
-<h2>Skills</h2>
+<h2>My Skills</h2>
 <ul>
-  <li>UI/UX Design</li>
   <li>HTML, CSS</li>
+  <li>UI/UX</li>
 </ul>

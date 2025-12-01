@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hello! This is Jedric Gabriel H. Dela Cruz</h1>
 
-<!--
-**jedricgabrieldelacruz-cyber/jedricgabrieldelacruz-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My Education</h2>
+<ul>
+  <li>2nd year student of Bachelor of Science in Information Technology</li>
+  <li>Studying at New Era University</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>My Certifications</h2>
+<ul>
+  <li>
+    SQL and Relational Databases 101  
+    <a href="https://courses.cognitiveclass.ai/certificates/1e585ba944e148a7b992f7434bf062f5">View Certificate</a>
+  </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Skills</h2>
+<ul>
+  <li>UI/UX Design</li>
+  <li>HTML, CSS</li>
+</ul>
